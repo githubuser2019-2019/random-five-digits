@@ -19,7 +19,7 @@ in Windows. (The code has not been fully tested in Windows, however)
 ## Examples  
 The code here is a bash script that will produce all combinations of 5 digits, starting with 00000 to 99999. The example code here will start a cURL command that will access Google at the site https://google.com/search?q=00000 to https://google.com/search?q=99999  
 The cURL command was created in the Firefox browser: after opening the developer console in Firefox (press F12),  
-![Developer Console](https://raw.githubusercontent.com/githubuser2019-2019/random-five-digits/master/Copy_As_cURL.png "Developer Console")  
+![Developer Console](https://raw.githubusercontent.com/githubuser2019-2019/random-five-digits/master/Developer_Console.png "Developer Console")  
 and clicking on the Network tab and setting 'Persist Logs' to true,  
 ![Network Tab](https://raw.githubusercontent.com/githubuser2019-2019/random-five-digits/master/Network_Requests.png "Network Requests")  
 the browser was navigated to one of the desired pages (https://google.com/search?q=00000). Right-clicking the generated network request gives an option to 'copy as cURL', which we can then copy and paste into our script.  
