@@ -3,7 +3,7 @@ A random number generator for 5 digit numbers
 ## Disclaimer  
 This is just for educational purposes only. This is a resource to learn about loops in bash scripts. The author is not liable for any extensions of this code.  
 ## How to Run loop.sh
-This code is a bash script meant to be run from the terminal. The code should run on major PC opterating systesms such as Mac, Linux, and Windows. In Mac, please navigate to the Terminal app, and in Windows, you can open Powershell. Navigate to the file and run  
+This code is a bash script meant to be run from the terminal. The code should run on major PC opterating systems such as Mac, Linux, and Windows. In Mac, please navigate to the Terminal app, and in Windows, you can open Powershell. Navigate to the file and run  
 ```
 chmod 777 loop.sh  
 ```
