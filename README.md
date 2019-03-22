@@ -2,18 +2,18 @@
 A random number generator for 5 digit numbers  
 ## Disclaimer  
 This is just for educational purposes only. This is a resource to learn about loops in bash scripts. The author is not liable for any extensions of this code.  
-## How to Run
+## How to Run loop.sh
 This code is a bash script meant to be run from the terminal. In Mac, please navigate to the Terminal app, and in Windows, you can open Powershell. Navigate to the file and run  
 ```
-chmod 777 loop  
+chmod 777 loop.sh  
 ```
 After that, you may run it with  
 ```
-./loop  
+./loop.sh  
 ```
 in Linux and Mac, and  
 ```
-bash -c "./loop"  
+bash -c "./loop.sh"  
 ```
 in Windows. (The code has not been fully tested in Windows, however)  
 ## Examples  
